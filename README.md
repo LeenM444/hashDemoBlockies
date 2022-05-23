@@ -1,7 +1,7 @@
 # Hash Demo using Blockies
 ![MyBlockie](https://github.com/LeenM444/hashDemoBlockies/blob/master/MyBlockie.png)
 
-I forked Hash Demo from johntango.  It shows how hashes can be used to create document signatures. The Blockies is a pixel representation that makes it easier for the human to recognize particular hashes.
+I forked Hash Demo from johntango who says that it "shows how hashes can be used to create document signatures. The Blockies is a pixel representation that makes it easier for the human to recognize particular hashes".
 
 To make your own:
 
