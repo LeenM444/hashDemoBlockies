@@ -1,5 +1,5 @@
-# Hash Demo using Blockies which I forked from johntango
-![MyBlockie](myblockie.png)
+# Hash Demo using Blockies
+![MyBlockie](/myblockie.png)
 
 I forked Hash Demo from johntango.  It shows how hashes can be used to create document signatures. The Blockies is a pixel representation that makes it easier for the human to recognize particular hashes.
 
